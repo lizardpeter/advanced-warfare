@@ -1,0 +1,52 @@
+# Multiplayer Map IDs - Call of Duty: Advanced Warfare
+
+## Base Maps:
+
+| Map | Code |
+| --- | --- |
+| Ascend | ??? |
+| Bio Lab | ??? |
+| Comeback | ??? |
+| Defender | ??? |
+| Detroit | ??? |
+| Greenband | ??? |
+| Horizon | ??? |
+| Instinct | ??? |
+| Recovery | ??? |
+| Retreat | ??? |
+| Riot | ??? |
+| Solar | ??? |
+| Terrace | ??? |
+| Atlas Gorge | ??? |
+
+## DLC 1: Havoc
+| Map | Code |
+| --- | --- |
+| Core | ??? |
+| Drift | ??? |
+| Slideshow | ??? |
+| Urban | ??? |
+
+## DLC 2: Ascendance
+| Map | Code |
+| --- | --- |
+| Chop Shop | ??? |
+| Climate | ??? |
+| Perplex | ??? |
+| Site 224 | ??? |
+
+## DLC 3: Supremacy
+| Map | Code |
+| --- | --- |
+| Compound | ??? |
+| Kremlin | ??? |
+| Parliament | ??? |
+| Skyrise | ??? |
+
+## DLC 4: Reckoning
+| Map | Code |
+| --- | --- |
+| Fracture | ??? |
+| Overload | ??? |
+| Quarantine | ??? |
+| Swarm | ??? |
