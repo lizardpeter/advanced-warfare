@@ -5,4 +5,4 @@
 
 This repository is a place for me to post helpful information and modified code for use with Advanced Warfare.
 
-![Zombies Server](https://img.charlieintel.com/wp-content/uploads/2015/07/12164055/DLC_4_Screen_Fracture.jpg)
+![Zombies Server](https://wallpapercave.com/wp/wp2398780.jpg)
